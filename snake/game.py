@@ -32,7 +32,7 @@ class GameConf:
         self.solver_name = 'HamiltonSolver'  # Class name of the solver
 
         # Size
-        self.map_rows = 8
+        self.map_rows = 32
         self.map_cols = self.map_rows
         self.map_width = 320  # pixels
         self.map_height = self.map_width
